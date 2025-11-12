@@ -42,6 +42,7 @@ DATABASE_URL="mysql://root@localhost:3306/plataforma_ar_educativa"
 
 ### 5. Ejecutar en desarrollo
 npm run dev
+
 PORT http://localhost:3000
 
 ## Credenciales de Prueba
