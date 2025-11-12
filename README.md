@@ -1,3 +1,4 @@
+
 # Plataforma Educativa AR para Preescolar
 
 Plataforma web educativa con integración de realidad aumentada (8th Wall) diseñada para estudiantes de preescolar.
@@ -79,3 +80,6 @@ Para desplegar en producción:
 ## Soporte
 Para dudas o problemas, contacta al administrador del sistema -CN.
 @cmium
+=======
+# PG-RAEducacion_CN
+
