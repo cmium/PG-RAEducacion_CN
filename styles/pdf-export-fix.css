@@ -1,0 +1,56 @@
+.pdf-export-mode {
+  /* Variables base (equivalentes HEX para evitar oklch/lab) */
+  --background: #ffffff !important;
+  --foreground: #111827 !important; /* gray-900 */
+  --card: #ffffff !important;
+  --card-foreground: #111827 !important;
+  --popover: #ffffff !important;
+  --popover-foreground: #111827 !important;
+  --primary: #10b981 !important; /* emerald-500 */
+  --primary-foreground: #ffffff !important;
+  --secondary: #f3f4f6 !important; /* gray-100 */
+  --secondary-foreground: #111827 !important;
+  --muted: #f3f4f6 !important;
+  --muted-foreground: #6b7280 !important; /* gray-500 */
+  --accent: #f3f4f6 !important;
+  --accent-foreground: #111827 !important;
+  --destructive: #ef4444 !important; /* red-500 */
+  --destructive-foreground: #ffffff !important;
+  --border: #e5e7eb !important; /* gray-200 */
+  --input: #e5e7eb !important;
+  --ring: #10b981 !important; /* emerald-500 */
+  --chart-1: #60a5fa !important; /* blue-400 */
+  --chart-2: #34d399 !important; /* green-400 */
+  --chart-3: #fbbf24 !important; /* yellow-400 */
+  --chart-4: #f87171 !important; /* red-400 */
+  --chart-5: #a78bfa !important; /* violet-400 */
+  --color-background: #ffffff !important;
+  --color-foreground: #111827 !important;
+  --color-card: #ffffff !important;
+  --color-card-foreground: #111827 !important;
+  --color-popover: #ffffff !important;
+  --color-popover-foreground: #111827 !important;
+  --color-primary: #10b981 !important;
+  --color-primary-foreground: #ffffff !important;
+  --color-secondary: #f3f4f6 !important;
+  --color-secondary-foreground: #111827 !important;
+  --color-muted: #f3f4f6 !important;
+  --color-muted-foreground: #6b7280 !important;
+  --color-accent: #f3f4f6 !important;
+  --color-accent-foreground: #111827 !important;
+  --color-destructive: #ef4444 !important;
+  --color-destructive-foreground: #ffffff !important;
+  --color-border: #e5e7eb !important;
+  --color-input: #e5e7eb !important;
+  --color-ring: #10b981 !important;
+  --color-chart-1: #60a5fa !important;
+  --color-chart-2: #34d399 !important;
+  --color-chart-3: #fbbf24 !important;
+  --color-chart-4: #f87171 !important;
+  --color-chart-5: #a78bfa !important;
+}
+
+.pdf-export-fix {
+  background: #ffffff !important;
+  color: #111827 !important;
+}
